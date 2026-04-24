@@ -29,4 +29,4 @@ Puedes obtener este juego de dos maneras:
 1. Abre tu terminal o consola de comandos.
 2. Escribe el siguiente comando:
    ```bash
-   git clone [https://github.com/](https://github.com/)[TU-USUARIO-DE-GITHUB]/[NOMBRE-DEL-REPOSITORIO].git
+   git clone [https://github.com/](https://github.com/)Jurguen101/Ruleta-Cristiana.git
